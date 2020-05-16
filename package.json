@@ -5,6 +5,9 @@
   "main": "devtools.html",
   "author": "Jonas Augsburger <jonas.augsburger@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "gulp styles"
+  },
   "dependencies": {},
   "devDependencies": {
     "gulp": "^4.0.0",
